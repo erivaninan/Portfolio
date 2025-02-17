@@ -1,3 +1,3 @@
 # Portfolio
 
-https://erivaninan.github.io/Portfolio/
+https://erivaninan.github.io
