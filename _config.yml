@@ -1,0 +1,20 @@
+# Informations générales
+title: "Portfolio"
+author: "Erivan INAN"
+email: "inanerivan@gmail.com"
+description: "Un portfolio de mes projets en Data Science et IA"
+
+# URL du site
+baseurl: "" # Laisse vide si le site est déployé à la racine de GitHub Pages
+url: "https://erivaninan.github.io" # Remplace par ton URL GitHub Pages
+
+# Thème Jekyll
+theme: minima
+remote_theme: jekyll/minima
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
